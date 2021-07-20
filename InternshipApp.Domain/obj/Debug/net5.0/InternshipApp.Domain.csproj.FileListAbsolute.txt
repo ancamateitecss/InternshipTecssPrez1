@@ -1,0 +1,12 @@
+C:\Projects\Internship2021\InternshipApp\InternshipApp.Domain\bin\Debug\net5.0\InternshipApp.Domain.deps.json
+C:\Projects\Internship2021\InternshipApp\InternshipApp.Domain\bin\Debug\net5.0\InternshipApp.Domain.dll
+C:\Projects\Internship2021\InternshipApp\InternshipApp.Domain\bin\Debug\net5.0\ref\InternshipApp.Domain.dll
+C:\Projects\Internship2021\InternshipApp\InternshipApp.Domain\bin\Debug\net5.0\InternshipApp.Domain.pdb
+C:\Projects\Internship2021\InternshipApp\InternshipApp.Domain\obj\Debug\net5.0\InternshipApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Internship2021\InternshipApp\InternshipApp.Domain\obj\Debug\net5.0\InternshipApp.Domain.AssemblyInfoInputs.cache
+C:\Projects\Internship2021\InternshipApp\InternshipApp.Domain\obj\Debug\net5.0\InternshipApp.Domain.AssemblyInfo.cs
+C:\Projects\Internship2021\InternshipApp\InternshipApp.Domain\obj\Debug\net5.0\InternshipApp.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\Internship2021\InternshipApp\InternshipApp.Domain\obj\Debug\net5.0\InternshipApp.Domain.dll
+C:\Projects\Internship2021\InternshipApp\InternshipApp.Domain\obj\Debug\net5.0\ref\InternshipApp.Domain.dll
+C:\Projects\Internship2021\InternshipApp\InternshipApp.Domain\obj\Debug\net5.0\InternshipApp.Domain.pdb
+C:\Projects\Internship2021\InternshipApp\InternshipApp.Domain\obj\Debug\net5.0\InternshipApp.Domain.csprojAssemblyReference.cache

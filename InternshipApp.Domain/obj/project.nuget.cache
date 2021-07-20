@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "reZ9A5HRFbW3qfrgregvU1w8Ti6Slz14MKvgq5bYCK0TzIXE5iOPWIy/Unny8yXw/fzyB8saH/KaLa1pxb7AMA==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Internship2021\\InternshipApp\\InternshipApp.Domain\\InternshipApp.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AncaRoman\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

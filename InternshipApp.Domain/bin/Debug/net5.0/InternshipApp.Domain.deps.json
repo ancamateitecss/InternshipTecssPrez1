@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "InternshipApp.Domain/1.0.0": {
+        "runtime": {
+          "InternshipApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InternshipApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

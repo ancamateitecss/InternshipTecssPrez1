@@ -1,0 +1,15 @@
+C:\Projects\Internship2021\InternshipApp\InternshipApp.Core\bin\Debug\net5.0\InternshipApp.Core.deps.json
+C:\Projects\Internship2021\InternshipApp\InternshipApp.Core\bin\Debug\net5.0\InternshipApp.Core.dll
+C:\Projects\Internship2021\InternshipApp\InternshipApp.Core\bin\Debug\net5.0\ref\InternshipApp.Core.dll
+C:\Projects\Internship2021\InternshipApp\InternshipApp.Core\bin\Debug\net5.0\InternshipApp.Core.pdb
+C:\Projects\Internship2021\InternshipApp\InternshipApp.Core\obj\Debug\net5.0\InternshipApp.Core.csprojAssemblyReference.cache
+C:\Projects\Internship2021\InternshipApp\InternshipApp.Core\obj\Debug\net5.0\InternshipApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Internship2021\InternshipApp\InternshipApp.Core\obj\Debug\net5.0\InternshipApp.Core.AssemblyInfoInputs.cache
+C:\Projects\Internship2021\InternshipApp\InternshipApp.Core\obj\Debug\net5.0\InternshipApp.Core.AssemblyInfo.cs
+C:\Projects\Internship2021\InternshipApp\InternshipApp.Core\obj\Debug\net5.0\InternshipApp.Core.csproj.CoreCompileInputs.cache
+C:\Projects\Internship2021\InternshipApp\InternshipApp.Core\obj\Debug\net5.0\InternshipApp.Core.dll
+C:\Projects\Internship2021\InternshipApp\InternshipApp.Core\obj\Debug\net5.0\ref\InternshipApp.Core.dll
+C:\Projects\Internship2021\InternshipApp\InternshipApp.Core\obj\Debug\net5.0\InternshipApp.Core.pdb
+C:\Projects\Internship2021\InternshipApp\InternshipApp.Core\bin\Debug\net5.0\InternshipApp.Domain.dll
+C:\Projects\Internship2021\InternshipApp\InternshipApp.Core\bin\Debug\net5.0\InternshipApp.Domain.pdb
+C:\Projects\Internship2021\InternshipApp\InternshipApp.Core\obj\Debug\net5.0\InternshipApp.Core.csproj.CopyComplete
